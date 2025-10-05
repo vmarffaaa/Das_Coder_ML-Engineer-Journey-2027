@@ -1,2 +1,12 @@
-# Das_Coder_ML-Engineer-Journey-2027
-📊 ML Engineer Transformation: 1,872 learning hours over 24 months Oct 2025 → Sep 2027 | Target: €80-100K Ireland ML role Roadmap: Math → ML Theory → Deep Learning → Production MLOps Building in public | Daily progress tracking
+📈 ML Engineer Transformation: 1,872 Hours → Elite Level | 2025-2027
+
+Documenting intensive ML mastery journey: Oct 2025 → Sep 2027
+
+🎯 Weekly: 36 hours focused learning + coding
+📊 Target: 500+ LeetCode | 10+ Projects | €80-100K ML role
+🧠 Roadmap: Math → Classical ML → Deep Learning → Production MLOps
+💻 Tech: PyTorch | TensorFlow | Docker | AWS | Kubernetes
+📍 Destination: Ireland ML Engineer Position
+
+Progress tracked daily. Building in public. Learning never stops.
+
